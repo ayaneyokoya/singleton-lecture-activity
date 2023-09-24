@@ -6,7 +6,7 @@ public class Shop {
     private ArrayList<Weapon> weapon_list;
 
     // TODO: Instance should be named "shop"
-
+    
     /*
      * TODO: Constructor for Shop
      * Initialize weapon_list to an empty ArrayList
