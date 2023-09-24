@@ -15,7 +15,7 @@ public class Player {
      * @param y y-coordinate of player (default 0.0)
      * @param movementSpeed movement speed of player (default 5.0)
      */
-    public Player() {
+    private Player() {
         this.x = 0.0;
         this.y = 0.0;
         this.movementSpeed = 5.0;

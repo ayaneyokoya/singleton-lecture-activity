@@ -12,7 +12,7 @@ public class Shop {
      * TODO: Constructor for Shop
      * Initialize weapon_list to an empty ArrayList
      */
-    public Shop() {
+    private Shop() {
         this.weapon_list = new ArrayList<Weapon>();
     }
 
